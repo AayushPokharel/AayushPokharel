@@ -1,6 +1,10 @@
-### Hi there 👋
-I'm **Aayush Pokharel** I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 4th Sem)*.
+### Hi there 👋 I'm **Aayush Pokharel** 
+____________________________________________________________________________________________________________________
 
+I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 4th Sem)*.
+
+
+____________________________________________________________________________________________________________________
 - I'm interested in GameDevlopment and have been learning Unreal Engine and Blender for the past three years.
 - Doing cool things or learning to do them with Python is one of my favourite things.
 
