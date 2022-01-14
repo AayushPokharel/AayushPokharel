@@ -12,3 +12,4 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning 3d modelling with Blender, Django with Python and Unreal Engine with C++.
 - 👯 I’m looking to collaborate on any python based student project that can help me improve my understanding of backend web devlopment.
 - 🤔 I’m looking for help with learning more about real life skill necessary to land a good programming job.
+____________________________________________________________________________________________________________________
