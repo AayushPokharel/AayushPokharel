@@ -17,15 +17,11 @@ Browse my repositories to explore my latest projects:
 
 - [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predective Parser developed in Python for my course work.
 
-<!-- ## 🚀 Recent Activity
+
+## 🚀 Recent Activity
 
 Here are some of my recent activities and contributions:
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/AayushPokharel/repo/pull/10) in [repo](https://github.com/AayushPokharel/repo)
-2. 🎉 Released version 1.2.0 of [project](https://github.com/AayushPokharel/project)
-3. ❗️ Closed issue [#5](https://github.com/AayushPokharel/repo/issues/5) in [repo](https://github.com/AayushPokharel/repo)
-<!--END_SECTION:activity--> -->
 
 ## 📊 GitHub Stats
 
