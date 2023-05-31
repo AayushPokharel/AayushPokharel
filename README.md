@@ -15,7 +15,7 @@ I'm passionate about Project Management,Cloud Engineering and Generative AI Mode
 Check out my portfolio website: [portfolio.aayushpokharel.com](https://portfolio.aayushpokharel.com)  
 Browse my repositories to explore my latest projects:
 
-- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predective Parser developed in Python for my Compiler Desing Project.
+- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predective Parser developed in Python for my course work.
 
 <!-- ## 🚀 Recent Activity
 
