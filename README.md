@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 
-# Hi there 👋 I'm **Aayush Pokharel**(https://aayushpokharel.com) 👋
+# Hi there 👋 I'm [**Aayush Pokharel**](https://aayushpokharel.com) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/AayushPokharel?style=social)](https://github.com/AayushPokharel)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aayush13122000?style=social)](https://twitter.com/Aayush13122000)
@@ -27,13 +27,12 @@ I'm passionate about Project Management,Cloud Engineering and Generative AI Mode
 
 ## 🔭 Portfolio
 
-Check out my portfolio website: [Your Portfolio Website](https://aayushpokharel.com)  
+Check out my portfolio website: [portfolio.aayushpokharel.com](https://portfolio.aayushpokharel.com)  
 Browse my repositories to explore my latest projects:
 
-- [Project 1](https://github.com/your-username/project1) - A brief description of project 1.
-- [Project 2](https://github.com/your-username/project2) - A brief description of project 2.
+- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predective Parser developed in Python for my Compiler Desing Project.
 
-## 🚀 Recent Activity
+<!-- ## 🚀 Recent Activity
 
 Here are some of my recent activities and contributions:
 
@@ -41,7 +40,7 @@ Here are some of my recent activities and contributions:
 1. 🎉 Merged PR [#10](https://github.com/AayushPokharel/repo/pull/10) in [repo](https://github.com/AayushPokharel/repo)
 2. 🎉 Released version 1.2.0 of [project](https://github.com/AayushPokharel/project)
 3. ❗️ Closed issue [#5](https://github.com/AayushPokharel/repo/issues/5) in [repo](https://github.com/AayushPokharel/repo)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 ## 📊 GitHub Stats
 
