@@ -6,16 +6,16 @@
 
 **Welcome to my GitHub profile!**
 
-I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 6th Sem)*.
+I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 7th Sem)*.
 
-I'm passionate about Project Management,Cloud Engineering and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
+I'm passionate about Project Management, Cloud Engineering, Data Science, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
 
 ## 🔭 Portfolio
 
 Check out my portfolio website: [portfolio.aayushpokharel.com](https://portfolio.aayushpokharel.com)  
 Browse my repositories to explore my latest projects:
 
-- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predective Parser developed in Python for my course work.
+- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predictive Parser developed in Python for my course work.
 
 
 ## 🚀 Recent Activity
@@ -42,6 +42,6 @@ Here are some of my recent activities and contributions:
 Feel free to connect with me on social media or reach out via email:
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aayush-pokharel-3910551ba/)
-- Twitter: [@your-twitter](https://twitter.com/Aayush13122000)
-- Email: [your-email@example.com](mailto:official@aayushpokharel.com)
+- Twitter: [@Aayush13122000](https://twitter.com/Aayush13122000)
+- Email: [official@aayushpokharel.com](mailto:official@aayushpokharel.com)
 
