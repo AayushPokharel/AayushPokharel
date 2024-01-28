@@ -12,15 +12,23 @@ I'm passionate about Project Management, Cloud Engineering, Data Science, and Ge
 
 ## 🔭 Portfolio
 
-Check out my portfolio website: [portfolio.aayushpokharel.com](https://portfolio.aayushpokharel.com)  
-Browse my repositories to explore my latest projects:
+Check out my portfolio website: [www.aayushpokharel.com](https://www.aayushpokharel.com)  
 
-- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non Recursive Predictive Parser developed in Python for my course work.
+##  I Work With
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=py,aws,django,fastapi,figma,github,git,docker,ts,postgres,bash" alt="Skills icon set">
+  </a>
+</p>
 
 
 ## 🚀 Recent Activity
 
 Here are some of my recent activities and contributions:
+
+Browse my repositories to explore my latest projects:
+
+- [Non Recursive Predictive Parser](https://github.com/AayushPokharel/CompilerParser) - This is a Non-Recursive Predictive Parser developed in Python for my coursework.
 
 
 ## 📊 GitHub Stats
