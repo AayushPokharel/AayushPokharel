@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AayushPokharel?style=social)](https://github.com/AayushPokharel)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aayush13122000?style=social)](https://twitter.com/Aayush13122000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/aayush-pokharel-3910551ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/AayushPokharel/)
 
 **Welcome to my GitHub profile!**
 
