@@ -6,7 +6,7 @@
 
 **Welcome to my GitHub profile!**
 
-I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 7th Sem)*.
+I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 8th Sem)*.
 
 I'm passionate about Project Management, Cloud Engineering, Data Science, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
 
@@ -49,7 +49,7 @@ Browse my repositories to explore my latest projects:
 
 Feel free to connect with me on social media or reach out via email:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aayush-pokharel-3910551ba/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/AayushPokharel/)
 - Twitter: [@Aayush13122000](https://twitter.com/Aayush13122000)
 - Email: [official@aayushpokharel.com](mailto:official@aayushpokharel.com)
 
