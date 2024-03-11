@@ -8,7 +8,7 @@
 
 I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 8th Sem)*.
 
-I'm passionate about Project Management, Cloud Engineering, Data Science, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
+I'm passionate about Project Management, Cloud Engineering, Data Science, Backend programming, scalable web architecture, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
 
 ## 🔭 Portfolio
 
@@ -17,7 +17,7 @@ Check out my portfolio website: [www.aayushpokharel.com](https://www.aayushpokha
 ##  I Work With
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=py,aws,django,fastapi,figma,github,git,docker,ts,postgres,bash" alt="Skills icon set">
+<img src="https://skillicons.dev/icons?i=py,aws,django,flask,figma,github,git,docker,js,postgres,bash,elixir" alt="Skills icon set">
   </a>
 </p>
 
