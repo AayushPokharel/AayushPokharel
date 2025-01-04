@@ -6,7 +6,7 @@
 
 **Welcome to my GitHub profile!**
 
-I'm a student at Kathmandu University School of Science. I'm enrolled in BSc Computer Science *(currently 8th Sem)*.
+I'm a DevOps Engineer at [STARTsmall Pvt. Ltd](https://startsml.com/). I mostly work in Kubernetes.
 
 I'm passionate about Project Management, Cloud Engineering, Data Science, Backend programming, scalable web architecture, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
 
