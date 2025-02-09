@@ -8,7 +8,7 @@
 
 I'm a DevOps Engineer at [STARTsmall Pvt. Ltd](https://startsml.com/). I mostly work in Kubernetes.
 
-I'm passionate about Project Management, Cloud Engineering, Data Science, Backend programming, scalable web architecture, and Generative AI Models. Below you'll find information about my projects, skills, and recent activity.
+I'm passionate about software configuration management, cloud engineering, data science, backend programming, scalable web architecture, distributed computing, and system observability. Below, you will find information about my projects, skills, and recent activity.
 
 ## 🔭 Portfolio
 
@@ -17,7 +17,7 @@ Check out my portfolio website: [www.aayushpokharel.com](https://www.aayushpokha
 ##  I Work With
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=py,aws,django,flask,figma,github,git,docker,js,postgres,bash,elixir" alt="Skills icon set">
+<img src="https://skillicons.dev/icons?i=py,bash,js,aws,linux,kubernetes,docker,django,flask,postgres,mysql,grafana,prometheus,github,figma" alt="Skills icon set">
   </a>
 </p>
 
